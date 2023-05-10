@@ -23,3 +23,10 @@ Ref :
 	
 2. network 
 	Ref : https://www.laptopmag.com/articles/map-network-drive-windows-10
+	
+# to Mount drive with SSHFS under Windows
+Ref: https://www.youtube.com/watch?v=uiXOuxdadms
+- Installation
+	- WinFsp [github](https://github.com/winfsp/winfsp) 
+	- sshfs-win [github](https://github.com/winfsp/sshfs-win)
+- Network manager setting : \sshfs\ID@IP (e.g. \sshfs\jihun@xxx.xx.xx.xx) 
